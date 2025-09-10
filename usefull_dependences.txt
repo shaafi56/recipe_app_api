@@ -1,9 +1,0 @@
-websites that i use in my projects:
-https://neon.tech/ // for databases 
-
-drizzle orm: https://drizzleorm.com/docs/introduction // for databases ORMs 
-
-express: https://expressjs.com/ // for web framework
-
-clerk: https://clerk.com/ // for authentication
-
